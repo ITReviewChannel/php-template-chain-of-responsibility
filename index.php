@@ -1,6 +1,6 @@
 <?php
 
-namespace ITReview;
+namespace ITReviewChannel;
 
 /**
  * Промежуточный скрипт.
